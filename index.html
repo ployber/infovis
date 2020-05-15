@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>d3.js barchart divs</title>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+
+  <div id="top10"></div>  
+  
+<script>
+var url = "https://download.data.world/s/so6fbu7jjvdoagcun3fvwssca4xj36";
+ 
+d3.csv( url ).then(function(data) {
+   data.forEach(function(d) {
+    d.score = Math.round((+d.ladder_score-7)*390);
+  });
+
+  d3.select("div#top10").selectAll("div").data(data)
+  .enter()
+  .append("div")
+  .style("width", (d) => d.score + "px")
+  .style("background","steelblue")
+  .style("padding","2px") 
+  .style("margin","2px")
+  .style("color","white")
+  .text( (d) => d.country_name );  
+  
+})
+  .catch(function(error){
+     // handle error   
+})
+
+  
+</script>
+  
+</body>
+</html>
