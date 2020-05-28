@@ -59,7 +59,7 @@ function update(n1) {
   cell.enter().append("rect")
       .attr("width", 0)
       .attr("height", cellSize)
-      .attr("style.fill", function(s) {
+      .attr("fill", function(s) {
                 return colorplt[Math.floor(Math.random()*colorplt.length)]; 
           })
       .attr("x", function(i) {
