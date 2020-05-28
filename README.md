@@ -44,7 +44,7 @@ https://ployber.github.io/infovis/vega_tipos_camara.html
 
 [BubblePlot Camaras](https://ployber.github.io/infovis/tp_camaras_bubbleplot.html)
 
-[Fourish bubles Camaras](https://ployber.github.io/infovis/tp_flourish_fotos_x_camara.html)
+[Flourish bubles Camaras](https://ployber.github.io/infovis/tp_flourish_fotos_x_camara.html)
 
 [Observable mapa fotos](https://observablehq.com/@ployber/fotos-ubicaciones-geograficas)
 
