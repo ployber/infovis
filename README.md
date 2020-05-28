@@ -32,9 +32,9 @@
 
 # TP
 
-[D3 color fill - Brewer](https://ployber.github.io/infovis/d3_prueba.html)
 [D3 original](https://ployber.github.io/infovis/d3_original.html)
 
+[D3 color fill - Brewer](https://ployber.github.io/infovis/d3_prueba.html)
 
 https://ployber.github.io/infovis/vega_tipos_camara.html
 
