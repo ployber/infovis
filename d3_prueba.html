@@ -61,7 +61,7 @@ function update(n1) {
       .attr("height", cellSize)
       .attr("backgroundColor", function(s) {
                 return bgcolorlist[Math.floor(Math.random()*colorplt.length)]; 
-          )}
+          })
       .attr("x", function(i) {
         var x0 = Math.floor(i / 100) % 10, x1 = Math.floor(i % 10);
         return groupSpacing * x0 + (cellSpacing + cellSize) * (x1 + x0 * 10);
