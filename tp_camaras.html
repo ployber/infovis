@@ -24,8 +24,10 @@
       // Assign the specification to a local variable vlSpec.
       var vlSpec = {
   "config": {"view": {"continuousWidth": 400, "continuousHeight": 300}},
-  "data": {
-    "url": "https://vega.github.io/vega-datasets/data/unemployment-across-industries.json"
+  "data": { "values": [
+{"series":"Government","year":2000,"month":1,"count":430,"rate":2.1,"date":"2000-01"},
+{"series":"Government","year":2000,"month":2,"count":409,"rate":2,"date":"2000-02"}
+] 
   },
   "mark": "area",
   "encoding": {
