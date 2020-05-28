@@ -37,4 +37,7 @@ https://ployber.github.io/infovis/tp_flourish_fotos_x_camara.html
 
 https://observablehq.com/@ployber/fotos-ubicaciones-geograficas
 
+# D3
+
+https://ployber.github.io/infovis/d3_prueba.html
 
