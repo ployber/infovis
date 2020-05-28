@@ -29,6 +29,6 @@
 
 https://ployber.github.io/infovis/vega_camaras.html
 https://ployber.github.io/infovis/tp_camaras.html
-
+https://ployber.github.io/infovis/tp_camaras_bubbleplot.html
 
 
