@@ -35,4 +35,6 @@ https://ployber.github.io/infovis/tp_camaras_bubbleplot.html
 
 https://ployber.github.io/infovis/tp_flourish_fotos_x_camara.html
 
+https://observablehq.com/@ployber/fotos-ubicaciones-geograficas
+
 
