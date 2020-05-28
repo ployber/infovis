@@ -24,15 +24,15 @@
 
 [Diferencia de Costo de seguro de autos Full, respecto de la media del país](https://public.flourish.studio/visualisation/2494662/)
 
-# D3
 
-https://ployber.github.io/infovis/d3_prueba.html
 
 # **MOM_2020w21**
 
 
 
 # TP
+
+[D3 color fill - Brewer](https://ployber.github.io/infovis/d3_prueba.html)
 
 https://ployber.github.io/infovis/vega_tipos_camara.html
 
