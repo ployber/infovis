@@ -23,3 +23,8 @@
 [Diferencia de Costo de seguro de autos Full, respecto de la media del país](https://public.flourish.studio/visualisation/2494866/)
 
 [Diferencia de Costo de seguro de autos Full, respecto de la media del país](https://public.flourish.studio/visualisation/2494662/)
+
+
+# TP
+
+https://ployber.github.io/infovis//vega_camaras.html
