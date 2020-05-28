@@ -27,4 +27,7 @@
 
 # TP
 
-https://ployber.github.io/infovis//vega_camaras.html
+https://ployber.github.io/infovis/vega_camaras.html
+
+
+
