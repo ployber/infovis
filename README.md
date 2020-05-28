@@ -46,7 +46,7 @@ https://ployber.github.io/infovis/vega_tipos_camara.html
 
 [Observable mapa fotos](https://observablehq.com/@ployber/fotos-ubicaciones-geograficas)
 
-[Leaflets - Ubicacion y Colores cominantes con Kmeans](http://ploy.no-ip.biz)
+[Leaflets - Ubicacion y Colores dominantes con Kmeans](http://ploy.no-ip.biz)
 
 
 
