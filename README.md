@@ -36,7 +36,9 @@ https://ployber.github.io/infovis/d3_prueba.html
 
 https://ployber.github.io/infovis/vega_tipos_camara.html
 
-https://ployber.github.io/infovis/tp_camaras.html
+[Streamgraph centrado](https://ployber.github.io/infovis/tp_camaras_center.html)
+
+[Streamgraph normalizado](https://ployber.github.io/infovis/tp_camaras.html)
 
 https://ployber.github.io/infovis/tp_camaras_bubbleplot.html
 
