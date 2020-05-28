@@ -32,10 +32,6 @@
 
 # TP
 
-[D3 original](https://ployber.github.io/infovis/d3_original.html)
-
-[D3 color fill - Brewer](https://ployber.github.io/infovis/d3_prueba.html)
-
 https://ployber.github.io/infovis/vega_tipos_camara.html
 
 [Streamgraph centrado](https://ployber.github.io/infovis/tp_camaras_center.html)
@@ -51,6 +47,9 @@ https://ployber.github.io/infovis/vega_tipos_camara.html
 [Leaflets - Ubicacion y Colores dominantes con Kmeans](http://ploy.no-ip.biz)
 
 
+[D3 original](https://ployber.github.io/infovis/d3_original.html)
+
+[D3 color fill - Brewer](https://ployber.github.io/infovis/d3_prueba.html)
 
 
 
