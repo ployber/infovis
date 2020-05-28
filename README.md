@@ -24,6 +24,10 @@
 
 [Diferencia de Costo de seguro de autos Full, respecto de la media del país](https://public.flourish.studio/visualisation/2494662/)
 
+# D3
+
+https://ployber.github.io/infovis/d3_prueba.html
+
 
 # TP
 
@@ -37,7 +41,9 @@ https://ployber.github.io/infovis/tp_flourish_fotos_x_camara.html
 
 https://observablehq.com/@ployber/fotos-ubicaciones-geograficas
 
-# D3
+[Ubicacion y Kmeans](https://ploy.no-ip.biz)
 
-https://ployber.github.io/infovis/d3_prueba.html
+
+
+
 
