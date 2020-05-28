@@ -41,7 +41,7 @@ https://ployber.github.io/infovis/tp_flourish_fotos_x_camara.html
 
 https://observablehq.com/@ployber/fotos-ubicaciones-geograficas
 
-[Ubicacion y Kmeans](https://ploy.no-ip.biz)
+[Ubicacion y Kmeans](http://ploy.no-ip.biz)
 
 
 
