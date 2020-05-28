@@ -40,13 +40,13 @@ https://ployber.github.io/infovis/vega_tipos_camara.html
 
 [Streamgraph normalizado](https://ployber.github.io/infovis/tp_camaras.html)
 
-https://ployber.github.io/infovis/tp_camaras_bubbleplot.html
+[BubblePlot Camaras](https://ployber.github.io/infovis/tp_camaras_bubbleplot.html)
 
-https://ployber.github.io/infovis/tp_flourish_fotos_x_camara.html
+[Fourish bubles Camaras](https://ployber.github.io/infovis/tp_flourish_fotos_x_camara.html)
 
-https://observablehq.com/@ployber/fotos-ubicaciones-geograficas
+[Observable mapa fotos](https://observablehq.com/@ployber/fotos-ubicaciones-geograficas)
 
-[Ubicacion y Colores cominantes con Kmeans](http://ploy.no-ip.biz)
+[Leaflets - Ubicacion y Colores cominantes con Kmeans](http://ploy.no-ip.biz)
 
 
 
