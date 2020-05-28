@@ -20,6 +20,8 @@ var formatNumber = d3.format(",d");
 
 var svg = d3.select("svg");
 
+var colorplt = ["#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c", "#fdbf6f", "#ff7f00", "#cab2d6"];
+  
 var width = +svg.attr("width"),
     height = +svg.attr("height");
 
@@ -51,6 +53,9 @@ function update(n1) {
       .attr("width", 0)
       .remove();
 
+object.style.backgroundColor=bgcolorlist[Math.floor(Math.random()*coloplt.length)]; },5000);  
+  
+  
   cell.enter().append("rect")
       .attr("width", 0)
       .attr("height", cellSize)
@@ -67,6 +72,8 @@ function update(n1) {
       .duration(updateDuration)
       .attr("width", cellSize);
 
+  cell.style.backgroundColor=bgcolorlist[Math.floor(Math.random()*coloplt.length)]; },5000);  
+  
   label
       .attr("x", offset + groupSpacing)
       .attr("y", offset + groupSpacing)
