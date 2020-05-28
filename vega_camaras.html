@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CAMARAS</title>
+    <meta charset="utf-8" />
+
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.12.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.12.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.8.0"></script>
+
+    <style media="screen">
+      /* Add space between Vega-Embed links  */
+      .vega-actions a {
+        margin-right: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Template for Embedding Vega-Lite Visualization</h1>
+    <!-- Container for the visualization -->
+    <div id="vis"></div>
+
+    <script>
+      // Assign the specification to a local variable vlSpec.
+      var vlSpec = {
+        $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
+		"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}},
+		"data": {
+		  "values" : [{“MES”:”2003-01“,“CAMARA”:“OLYMPUS C150,D390“,“COUNT”:1},{“MES”:”2004-05“,“CAMARA”:“OLYMPUS C150,D390“COUNT”:4}]
+		},
+		"mark": "area",
+		"encoding": {
+		  "color": {
+		    "type": "nominal",
+		    "field": "CAMARA",
+		    "scale": {"scheme": "category20b"}
+		  },
+		  "opacity": {
+		    "condition": {"value": 1, "selection": "selector036"},
+		    "value": 0.2
+		  },
+		  "x": {
+		    "type": "temporal",
+		    "axis": {"domain": false, "format": "%Y", "tickSize": 0},
+		    "field": "MES",
+		    "timeUnit": "yearmonth"
+		  },
+		  "y": {
+		    "type": "quantitative",
+		    "aggregate": "sum",
+		    "axis": null,
+		    "field": "COUNT",
+		    "stack": "center"
+		  }
+		},
+		"selection": {
+		  "selector036": {"type": "multi", "fields": ["CAMARA"], "bind": "legend"}
+		},
+		"$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json"
+        
+
+
+      };
+
+      // Embed the visualization in the container with id `vis`
+      vegaEmbed('#vis', vlSpec);
+    </script>
+  </body>
+</html>
