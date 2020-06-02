@@ -22,11 +22,9 @@
 
  - [Scatterplot](https://ployber.github.io/infovis/mom2020w20_1.html)
 
- - # Flourish
+ - [Diferencia de Costo de seguro de autos Full, respecto de la media del país - Flourish](https://public.flourish.studio/visualisation/2494866/)
 
-   - [Diferencia de Costo de seguro de autos Full, respecto de la media del país](https://public.flourish.studio/visualisation/2494866/)
-
-   - [Diferencia de Costo de seguro de autos Full, respecto de la media del país](https://public.flourish.studio/visualisation/2494662/)
+   - [Diferencia de Costo de seguro de autos Full, respecto de la media del país - Flourish](https://public.flourish.studio/visualisation/2494662/)
 
 ### MOM_2020w21 
 ####Visualizing 40 Years of Music Industry Sales
