@@ -29,6 +29,7 @@
 ### MOM_2020w21 
 #### Visualizing 40 Years of Music Industry Sales
 
+ - [Revenue actualizada por tipo de soporte - Stacked](https://ployber.github.io/infovis/mom2020w21_1.html)
 
 
 ## TP
