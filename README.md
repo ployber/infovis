@@ -30,8 +30,10 @@
 #### Visualizing 40 Years of Music Industry Sales
 
  - [Revenue actualizada por tipo de soporte - Stacked](https://ployber.github.io/infovis/mom2020_w21_1.html)
-
-
+ 
+ - [Revenue actualizada por formato por año - Stacked](https://ployber.github.io/infovis/mom2020_w21_2.html)
+ 
+ 
 ## TP
 ### Metadata de repositorio personal de fotos
 
